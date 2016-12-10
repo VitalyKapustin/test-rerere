@@ -1,3 +1,3 @@
 def hello
-  puts 'hello world'
+  puts 'hola world'
 end
